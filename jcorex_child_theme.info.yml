@@ -1,0 +1,8 @@
+name: jcorex_child_theme
+type: theme
+description: Custom Base theme
+base theme: jcorex_base
+core_version_requirement: ^8.8 || ^9
+
+libraries:
+  - jcorex_child_theme/global-styles
